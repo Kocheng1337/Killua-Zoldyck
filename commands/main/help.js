@@ -30,9 +30,8 @@ module.exports = {
             teks += `Send ${prefix}help followed by a command name to get detail of command, ex: ${prefix}help sticker`;
             
             let templateButtons = [
-                {index: 1, urlButton: { displayText: "Source Code", url: "https://github.com/zhwzein/Killua-Zoldyck" }},
-                {index: 2, urlButton: { displayText: "Main APIs", url: "http://zenzapis.xyz" }},
-                {index: 3, quickReplyButton: {displayText: 'This is a reply, just like normal buttons!', id: 'id-like-buttons-message'}},
+                {index: 1, urlButton: { displayText: "Owner", url: "wa.me/6285157024040" }},
+                {index: 2, urlButton: { displayText: "Main APIs", url: "http://zenzapis.xyz" }},                
             ]
 
             let templateMessage = {

@@ -1,20 +1,20 @@
 {
   "APIs": {
     "zenz": "https://api.zahwazein.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "50c8f675e1e4"
   },
   "options": {
     "autoRead": false,
     "self": false,
-    "limitCount": 20,
-    "limitGame": 20
+    "limitCount": 1000,
+    "limitGame": 1000
   },
   "exif": {
     "packname": "zenzapis",
     "author": "https://zenzapis.xyz"
   },
   "owner": [
-    "62812xxx"
+    "6285157024040"
   ],
   "timezone": "Asia/Jakarta",
   "footer": "Powered by https://zenzapis.xyz"
